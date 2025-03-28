@@ -1,0 +1,9 @@
+Record=TopLevelDocument|FileName=ADS1298.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ADS1298.SchDoc|FileName=CAN.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=ADS1298.SchDoc|FileName=EMG_connectors_and_filters_CH_1_4.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ADS1298.SchDoc|FileName=EMG_connectors_and_filters_CH_5_8.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ADS1298.SchDoc|FileName=Regulators.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ADS1298.SchDoc|FileName=Regulators_2.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ADS1298.SchDoc|FileName=STM32_IO.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=ADS1298.SchDoc|FileName=STM32_POWER.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=ADS1298.SchDoc|FileName=TOC_and_Revision.SchDoc|SheetNumber=1
