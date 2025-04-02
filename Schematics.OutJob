@@ -49,7 +49,7 @@ Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=All SCH Documents
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Sagi Ronen\OneDrive - Myomo Inc\Sagi\_PCB_Design\STM32\ADS1298_SHIELD\110-0002_REV_2\110-0002_REV_2_PCB_PROJECT\_OUTPUTS\110-0002_REV_1_SCHEMATICS.PDF
+OutputFilePath2=C:\Users\Sagi Ronen\OneDrive - Myomo Inc\Sagi\_PCB_Design\STM32\ADS1298_SHIELD\110-0002_REV_2\110-0002_REV_2_PCB_PROJECT\_OUTPUTS\110-0002_REV_2_SCHEMATICS.PDF
 ReleaseManaged2=0
 OutputBasePath2=_OUTPUTS\
 OutputPathMedia2=
@@ -128,7 +128,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Sagi Ronen\OneDrive - Myomo Inc\Sagi\_PCB_Design\STM32\ADS1298_SHIELD\110-0002_REV_2\110-0002_REV_2_PCB_PROJECT\_OUTPUTS\110-0002_REV_1_SCHEMATICS.PDF
+RelativeOutputPath2=C:\Users\Sagi Ronen\OneDrive - Myomo Inc\Sagi\_PCB_Design\STM32\ADS1298_SHIELD\110-0002_REV_2\110-0002_REV_2_PCB_PROJECT\_OUTPUTS\110-0002_REV_2_SCHEMATICS.PDF
 OpenOutputs2=0
 RelativeOutputPath3=
 OpenOutputs3=1
